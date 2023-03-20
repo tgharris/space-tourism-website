@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](space-tourism-website/screenshots/home_desktop.jpeg)
+![Homepage](space-tourism-website/screenshots/home_desktop.jpeg?raw=true)
 
 ### Links
 
