@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/space-tourism-website-using-semantic-html5-and-css-grid-YuWJs6I1Pr)
+- Live Site URL: [Space Tourism Website](https://tgharris.github.io/space-tourism-website/index.html)
 
 ## My process
 Since this is the largest project I have built so far, I decided to follow Kevin Powell's [Build a Space Travel Website](https://scrimba.com/learn/spacetravel) course on [scrimba.com](https://www.scrimba.com/). Upon completing the course, I finished the technology page using the principles and methods I learned along the way. I then decided that I wanted to alter the code to utilize the JSON data, so I rewrote a portion of the codebase to implement the change. Finally, I adjusted the styling for each page to more accurately capture the design in the provided Figma file.
